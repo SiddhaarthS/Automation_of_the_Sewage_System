@@ -1,1 +1,2 @@
 # Automation_of_the_Sewage_System
+Worked on a project for automating the sewage system in Chennai using Internet-of-Things technology .Created a working model and presentation. Won the first place at the prestigious "Internet-Of-Things Challenge" event sponsored by Texas Instruments at the National level technical symposium of National Institute of Technology- Trichy. Used a CC3200 board provided by Texas Instruments to transmit data from sensors over Wi-Fi. Coded using Energia.
